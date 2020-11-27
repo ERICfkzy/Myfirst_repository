@@ -1,0 +1,12 @@
+Took place on 27/11/2020 learning center01
+learnt the following;
+-introduction to git
+-x-tics of git
+-components of git
+-advantages and disadvantages 
+-Getting started with git
+        -creating account
+        -installation
+        -VScode
+        -git bash
+        -getting familiar with git commands
